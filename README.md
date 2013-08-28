@@ -1,4 +1,2 @@
-vcs
+Voice Control System
 ===
-
-Voice Contol System
